@@ -1,0 +1,8 @@
+/*link the style sheet to the html file
+
+select html elements and give it some style*/
+
+h1{
+	color: red;
+	font-family: Helvetica;
+}
